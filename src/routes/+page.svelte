@@ -5,6 +5,7 @@
 	import Features from "$lib/components/Features.svelte";
 	import Agents from "$lib/components/Agents.svelte";
 	import Integrations from "$lib/components/Integrations.svelte";
+	import Pricing from "$lib/components/Pricing.svelte";
 	import Stories from "$lib/components/Stories.svelte";
 	import Updates from "$lib/components/Updates.svelte";
 	import FAQ from "$lib/components/FAQ.svelte";
@@ -18,6 +19,7 @@
 	<Features />
 	<Agents />
 	<Integrations />
+	<Pricing />
 	<Stories />
 	<Updates />
 	<FAQ />
