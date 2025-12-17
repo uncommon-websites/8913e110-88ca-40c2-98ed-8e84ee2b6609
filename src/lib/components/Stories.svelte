@@ -1,45 +1,69 @@
 <section class="py-24 bg-gray-50">
 	<div class="mx-auto max-w-[1400px] px-6">
-		<div class="mb-12 flex items-end justify-between">
-			<div>
-				<div class="mb-4 text-[10px] font-bold tracking-widest text-gray-500 uppercase">[04] Customer Stories</div>
-				<h2 class="text-4xl font-medium tracking-tight text-gray-900">How top teams win with Juicebox</h2>
-			</div>
-			<div class="flex gap-2">
-				<button class="flex h-10 w-10 items-center justify-center border border-gray-200 bg-white hover:bg-gray-50">
-					<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m15 18-6-6 6-6"/></svg>
-				</button>
-				<button class="flex h-10 w-10 items-center justify-center border border-gray-200 bg-white hover:bg-gray-50">
-					<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m9 18 6-6-6-6"/></svg>
-				</button>
-			</div>
+		<div class="mb-12">
+			<div class="mb-4 text-[10px] font-bold tracking-widest text-gray-500 uppercase">[04] Success Stories</div>
+			<h2 class="text-4xl font-medium tracking-tight text-gray-900">Malaysians saving thousands with CukaiMax</h2>
 		</div>
 
-		<div class="grid grid-cols-1 gap-8 md:grid-cols-2">
+		<div class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
 			<!-- Story 1 -->
-			<div class="group cursor-pointer">
-				<div class="relative mb-6 overflow-hidden bg-gray-200 aspect-video">
-					<img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&q=80" alt="CoinTracker Team" class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" />
-					<div class="absolute top-4 left-4 flex items-center gap-2 text-white font-bold drop-shadow-md">
-						<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="10"/></svg>
-						CoinTracker
+			<div class="rounded-lg border border-gray-200 bg-white p-6">
+				<div class="mb-4 flex items-center gap-3">
+					<div class="h-12 w-12 rounded-full bg-primary-100 flex items-center justify-center text-primary-700 font-bold text-lg">
+						SL
+					</div>
+					<div>
+						<div class="font-bold text-gray-900">Sarah Lim</div>
+						<div class="text-xs text-gray-500">Marketing Manager, KL</div>
 					</div>
 				</div>
-				<h3 class="mb-2 text-xl font-medium text-gray-900">How CoinTracker Saves 30+ Hours on Sourcing with AI Agents</h3>
-				<p class="text-xs text-gray-500">Valentina Miner, Full-Cycle Recruiter @ CoinTracker</p>
+				<p class="mb-4 text-sm leading-relaxed text-gray-600">
+					"I used to forget receipts and miss deductions every year. CukaiMax helped me claim an extra <strong class="text-gray-900">RM 1,850</strong> in refunds I would have lost!"
+				</p>
+				<div class="flex items-center gap-2 text-xs text-primary-700">
+					<svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+					<span class="font-semibold">Saved RM 1,850</span>
+				</div>
 			</div>
 
 			<!-- Story 2 -->
-			<div class="group cursor-pointer">
-				<div class="relative mb-6 overflow-hidden bg-gray-200 aspect-video">
-					<img src="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=800&q=80" alt="Monte Carlo Team" class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" />
-					<div class="absolute top-4 left-4 flex items-center gap-2 text-white font-bold drop-shadow-md">
-						<div class="bg-white text-black p-1 text-xs font-bold">MC</div>
-						MONTE CARLO
+			<div class="rounded-lg border border-gray-200 bg-white p-6">
+				<div class="mb-4 flex items-center gap-3">
+					<div class="h-12 w-12 rounded-full bg-green-100 flex items-center justify-center text-green-700 font-bold text-lg">
+						AK
+					</div>
+					<div>
+						<div class="font-bold text-gray-900">Ahmad Kamal</div>
+						<div class="text-xs text-gray-500">Software Engineer, Penang</div>
 					</div>
 				</div>
-				<h3 class="mb-2 text-xl font-medium text-gray-900">How Monte Carlo Filled 2 Senior Engineering Roles in 3 Weeks</h3>
-				<p class="text-xs text-gray-500">Brenda Tam, Global Head of Recruiting & HR</p>
+				<p class="mb-4 text-sm leading-relaxed text-gray-600">
+					"Tax filing used to take me 3-4 hours. With CukaiMax, I just upload receipts throughout the year and export everything in <strong class="text-gray-900">5 minutes</strong> during tax season."
+				</p>
+				<div class="flex items-center gap-2 text-xs text-green-700">
+					<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg>
+					<span class="font-semibold">5-minute filing</span>
+				</div>
+			</div>
+
+			<!-- Story 3 -->
+			<div class="rounded-lg border border-gray-200 bg-white p-6">
+				<div class="mb-4 flex items-center gap-3">
+					<div class="h-12 w-12 rounded-full bg-blue-100 flex items-center justify-center text-blue-700 font-bold text-lg">
+						MR
+					</div>
+					<div>
+						<div class="font-bold text-gray-900">Mei Ling Tan</div>
+						<div class="text-xs text-gray-500">Teacher, Johor Bahru</div>
+					</div>
+				</div>
+				<p class="mb-4 text-sm leading-relaxed text-gray-600">
+					"I never knew I could claim so many things! CukaiMax showed me all <strong class="text-gray-900">40+ LHDN categories</strong> and helped me maximize my refund legally."
+				</p>
+				<div class="flex items-center gap-2 text-xs text-blue-700">
+					<svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+					<span class="font-semibold">Maximum refund</span>
+				</div>
 			</div>
 		</div>
 	</div>

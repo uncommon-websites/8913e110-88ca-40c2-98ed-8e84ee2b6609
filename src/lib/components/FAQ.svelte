@@ -2,28 +2,28 @@
 	let openIndex = 0;
 	const faqs = [
 		{
-			question: "Who can use Juicebox?",
-			answer: "Juicebox is built for recruiters. If you are searching for hard-to-find talent, Juicebox is a fit for you. We work with companies ranging from Fortune 500 to boutique recruiting agencies — and hopefully, you too."
+			question: "How does CukaiMax work?",
+			answer: "CukaiMax uses AI to automatically scan and categorize your receipts into LHDN relief categories. Simply upload a photo of your receipt throughout the year, and we'll track everything for you. When tax season arrives, export your LHDN-ready summary in minutes."
 		},
 		{
-			question: "Can I try Juicebox for free?",
-			answer: "Yes! We offer a free trial so you can experience the power of our AI agents firsthand."
+			question: "Is my financial data secure?",
+			answer: "Absolutely. We use bank-grade AES-256 encryption, are PDPA compliant, and store all data exclusively on Malaysian servers. Your data is protected with the same security standards used by financial institutions, and we never share or sell your information."
 		},
 		{
-			question: "Can I use Juicebox with my team?",
-			answer: "Absolutely. Juicebox is designed for collaboration, allowing your entire recruiting team to share insights and candidate pools."
+			question: "What LHDN relief categories does CukaiMax support?",
+			answer: "CukaiMax supports all 40+ LHDN relief categories including Lifestyle, Medical, Books & Journals, Parents, Insurance, EPF, PRS, Education, and many more. Our AI automatically categorizes receipts into the correct bucket and tracks your relief caps."
 		},
 		{
-			question: "How long does it take to set up and start using Juicebox?",
-			answer: "You can get started in minutes. Our onboarding is streamlined to get you sourcing candidates immediately."
+			question: "Can I try CukaiMax for free?",
+			answer: "Yes! Our free tier includes 20 receipt uploads, real-time deduction tracking, refund estimator, and 7-year secure storage. No credit card required. Upgrade to Premium (RM99/year) for unlimited uploads and LHDN-ready exports."
 		},
 		{
-			question: "Does Juicebox have global candidate data?",
-			answer: "Yes, we have access to over 800M+ profiles globally across various industries and regions."
+			question: "How long does CukaiMax store my receipts?",
+			answer: "We automatically store your receipts securely for 7 years, which aligns with Malaysian tax document retention requirements. You can export or delete your data anytime."
 		},
 		{
-			question: "Will it integrate with my ATS or CRM?",
-			answer: "We integrate with all major ATS and CRM platforms including Greenhouse, Lever, Ashby, and more."
+			question: "Does CukaiMax integrate with LHDN e-Filing?",
+			answer: "CukaiMax generates LHDN-ready CSV and PDF summary files that you can use directly with LHDN e-Filing. We organize all your deductions by category, making tax filing quick and easy."
 		}
 	];
 </script>
@@ -36,10 +36,10 @@
 				<div class="mb-4 text-[10px] font-bold tracking-widest text-gray-500 uppercase">[06] FAQ</div>
 				<h2 class="mb-6 text-4xl font-medium tracking-tight text-gray-900">Your questions, answered</h2>
 				<p class="mb-8 text-lg leading-relaxed text-gray-600">
-					We're here to help. Reach out to our sales team for guidance on how to integrate Juicebox into your recruiting workflow.
+					Have more questions? We're here to help. Contact us at hello@cukaimax.com for personalized support.
 				</p>
-				<a href="#" class="inline-block bg-gray-900 px-6 py-3 text-[11px] font-bold tracking-widest text-white transition-colors hover:bg-gray-800 uppercase">
-					Book a Demo
+				<a href="mailto:hello@cukaimax.com" class="inline-block bg-gray-900 px-6 py-3 text-[11px] font-bold tracking-widest text-white transition-colors hover:bg-gray-800 uppercase">
+					Contact Support
 				</a>
 			</div>
 
