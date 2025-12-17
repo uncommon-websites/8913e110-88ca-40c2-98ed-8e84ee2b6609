@@ -15,7 +15,7 @@
 			</p>
 		</div>
 
-		<div class="mx-auto max-w-2xl overflow-hidden rounded-lg bg-white shadow-2xl">
+		<div class="mx-auto max-w-2xl overflow-hidden rounded-xl bg-white shadow-2xl">
 			<div class="border-b border-gray-100 bg-gray-50/50 px-4 py-3">
 				<div class="flex items-center gap-2 text-sm text-gray-500">
 					<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary-600"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
@@ -23,7 +23,7 @@
 				</div>
 			</div>
 			<div class="p-6">
-				<div class="mb-4 flex items-center justify-center rounded-lg border-2 border-dashed border-gray-300 bg-gray-50 p-8 text-center hover:border-primary-400 hover:bg-primary-50/50 transition-colors cursor-pointer">
+				<div class="mb-4 flex items-center justify-center rounded border-2 border-dashed border-gray-300 bg-gray-50 p-8 text-center hover:border-primary-400 hover:bg-primary-50/50 transition-colors cursor-pointer">
 					<div>
 						<svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="mx-auto mb-2 text-gray-400">
 							<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
@@ -34,7 +34,7 @@
 					</div>
 				</div>
 				<div class="space-y-2">
-					<div class="flex items-center justify-between rounded-lg border border-primary-200 bg-primary-50 p-3">
+					<div class="flex items-center justify-between rounded border border-primary-200 bg-primary-50 p-3">
 						<div class="flex items-center gap-3">
 							<div class="flex h-8 w-8 items-center justify-center rounded bg-primary-600 text-white">
 								<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg>

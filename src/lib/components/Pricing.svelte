@@ -19,7 +19,7 @@
 		<!-- Pricing Cards -->
 		<div class="mx-auto grid max-w-5xl grid-cols-1 gap-8 md:grid-cols-2">
 			<!-- Free Tier -->
-			<div class="relative overflow-hidden rounded-lg border-2 border-gray-200 bg-white p-8">
+			<div class="relative overflow-hidden rounded-xl border-2 border-gray-200 bg-white p-8">
 				<div class="mb-6">
 					<div class="mb-2 text-[10px] font-bold tracking-widest text-gray-500 uppercase">Free Forever</div>
 					<div class="mb-4 flex items-baseline gap-2">
@@ -73,7 +73,7 @@
 			</div>
 
 			<!-- Premium Tier -->
-			<div class="relative overflow-hidden rounded-lg border-2 border-primary-600 bg-white p-8">
+			<div class="relative overflow-hidden rounded-xl border-2 border-primary-600 bg-white p-8">
 				<!-- Popular Badge -->
 				<div class="absolute top-0 right-0 bg-primary-600 px-4 py-1 text-[9px] font-bold tracking-widest text-white uppercase">
 					Most Popular
@@ -133,7 +133,7 @@
 		</div>
 
 		<!-- Value Proposition -->
-		<div class="mx-auto mt-16 max-w-3xl rounded-lg border border-primary-200 bg-primary-50 p-8 text-center">
+		<div class="mx-auto mt-16 max-w-3xl rounded-xl border border-primary-200 bg-primary-50 p-8 text-center">
 			<div class="mb-3 text-[10px] font-bold tracking-widest text-primary-700 uppercase">Average User Savings</div>
 			<div class="mb-2 text-4xl font-bold text-primary-900">RM 2,450</div>
 			<p class="text-sm text-primary-800">

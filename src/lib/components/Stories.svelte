@@ -7,7 +7,7 @@
 
 		<div class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
 			<!-- Story 1 -->
-			<div class="rounded-lg border border-gray-200 bg-white p-6">
+			<div class="rounded border border-gray-200 bg-white p-6">
 				<div class="mb-4 flex items-center gap-3">
 					<div class="h-12 w-12 rounded-full bg-primary-100 flex items-center justify-center text-primary-700 font-bold text-lg">
 						SL
@@ -27,7 +27,7 @@
 			</div>
 
 			<!-- Story 2 -->
-			<div class="rounded-lg border border-gray-200 bg-white p-6">
+			<div class="rounded border border-gray-200 bg-white p-6">
 				<div class="mb-4 flex items-center gap-3">
 					<div class="h-12 w-12 rounded-full bg-green-100 flex items-center justify-center text-green-700 font-bold text-lg">
 						AK
@@ -47,7 +47,7 @@
 			</div>
 
 			<!-- Story 3 -->
-			<div class="rounded-lg border border-gray-200 bg-white p-6">
+			<div class="rounded border border-gray-200 bg-white p-6">
 				<div class="mb-4 flex items-center gap-3">
 					<div class="h-12 w-12 rounded-full bg-blue-100 flex items-center justify-center text-blue-700 font-bold text-lg">
 						MR

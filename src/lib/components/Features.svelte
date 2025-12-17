@@ -22,9 +22,9 @@
 		<!-- Feature 1: AI Receipt Scanning -->
 		<div class="mb-32 grid grid-cols-1 gap-16 lg:grid-cols-2">
 			<!-- Visual -->
-			<div class="relative overflow-hidden rounded-lg bg-primary-600 p-8">
+			<div class="relative overflow-hidden rounded-xl bg-primary-600 p-8">
 				<!-- Mockup -->
-				<div class="rounded-lg bg-white shadow-xl">
+				<div class="rounded bg-white shadow-xl">
 					<div class="border-b border-gray-100 p-4">
 						<div class="flex items-center gap-2 text-xs text-gray-600">
 							<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="text-primary-600"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
@@ -81,14 +81,14 @@
 		<!-- Feature 2: Real-time Tracking -->
 		<div class="grid grid-cols-1 gap-16 lg:grid-cols-2">
 			<!-- Visual -->
-			<div class="relative overflow-hidden rounded-lg bg-gray-800 p-8">
+			<div class="relative overflow-hidden rounded-xl bg-gray-800 p-8">
 				<!-- Mockup -->
-				<div class="rounded-lg bg-white shadow-xl h-full flex flex-col">
+				<div class="rounded bg-white shadow-xl h-full flex flex-col">
 					<div class="border-b border-gray-100 p-4">
 						<div class="text-xs font-semibold text-gray-900">Your 2025 Tax Summary</div>
 					</div>
 					<div class="p-4 flex-1">
-						<div class="mb-4 rounded-lg bg-primary-50 border border-primary-200 p-4 text-center">
+						<div class="mb-4 rounded bg-primary-50 border border-primary-200 p-4 text-center">
 							<div class="text-[10px] font-semibold text-primary-700 uppercase mb-1">Estimated Refund</div>
 							<div class="text-3xl font-bold text-primary-900">RM 2,450</div>
 						</div>

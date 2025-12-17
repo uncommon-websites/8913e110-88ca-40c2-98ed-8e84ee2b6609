@@ -22,7 +22,7 @@
 							<polyline points="21 15 16 10 5 21"/>
 						</svg>
 					</div>
-					<div class="rounded-lg bg-white px-4 py-3 shadow-lg">
+					<div class="rounded bg-white px-4 py-3 shadow-lg">
 						<div class="text-lg font-bold text-gray-900">1. Snap</div>
 						<div class="text-xs text-gray-600">Upload receipts</div>
 					</div>
@@ -41,7 +41,7 @@
 							<path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"/>
 						</svg>
 					</div>
-					<div class="rounded-lg bg-white px-4 py-3 shadow-lg">
+					<div class="rounded bg-white px-4 py-3 shadow-lg">
 						<div class="text-lg font-bold text-gray-900">2. Categorize</div>
 						<div class="text-xs text-gray-600">AI sorts into LHDN buckets</div>
 					</div>
@@ -62,7 +62,7 @@
 							<line x1="12" y1="15" x2="12" y2="3"/>
 						</svg>
 					</div>
-					<div class="rounded-lg bg-white px-4 py-3 shadow-lg">
+					<div class="rounded bg-white px-4 py-3 shadow-lg">
 						<div class="text-lg font-bold text-gray-900">3. Export</div>
 						<div class="text-xs text-gray-600">LHDN-ready files</div>
 					</div>
@@ -73,7 +73,7 @@
 		<!-- Features Grid -->
 		<div class="grid grid-cols-1 gap-8 md:grid-cols-3">
 			<!-- Col 1 -->
-			<div class="rounded-lg border border-gray-200 bg-white p-6">
+			<div class="rounded border border-gray-200 bg-white p-6">
 				<div class="mb-4 inline-block rounded bg-primary-100 px-2 py-1 text-[10px] font-bold tracking-widest text-primary-700 uppercase">
 					Year-Round Tracking
 				</div>
@@ -84,7 +84,7 @@
 			</div>
 
 			<!-- Col 2 -->
-			<div class="rounded-lg border border-gray-200 bg-white p-6">
+			<div class="rounded border border-gray-200 bg-white p-6">
 				<div class="mb-4 inline-block rounded bg-green-100 px-2 py-1 text-[10px] font-bold tracking-widest text-green-700 uppercase">
 					Smart Categorization
 				</div>
@@ -95,7 +95,7 @@
 			</div>
 
 			<!-- Col 3 -->
-			<div class="rounded-lg border border-gray-200 bg-white p-6">
+			<div class="rounded border border-gray-200 bg-white p-6">
 				<div class="mb-4 inline-block rounded bg-blue-100 px-2 py-1 text-[10px] font-bold tracking-widest text-blue-700 uppercase">
 					5-Minute Filing
 				</div>

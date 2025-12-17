@@ -8,7 +8,7 @@
 
 		<div class="grid grid-cols-1 gap-8 md:grid-cols-3 mb-12">
 			<!-- Security Feature 1 -->
-			<div class="rounded-lg border border-gray-200 bg-gray-50 p-8 text-center">
+			<div class="rounded border border-gray-200 bg-gray-50 p-8 text-center">
 				<div class="mb-4 flex justify-center">
 					<div class="flex h-16 w-16 items-center justify-center rounded-full bg-primary-100">
 						<svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="text-primary-600">
@@ -22,7 +22,7 @@
 			</div>
 
 			<!-- Security Feature 2 -->
-			<div class="rounded-lg border border-gray-200 bg-gray-50 p-8 text-center">
+			<div class="rounded border border-gray-200 bg-gray-50 p-8 text-center">
 				<div class="mb-4 flex justify-center">
 					<div class="flex h-16 w-16 items-center justify-center rounded-full bg-green-100">
 						<svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="text-green-600">
@@ -35,7 +35,7 @@
 			</div>
 
 			<!-- Security Feature 3 -->
-			<div class="rounded-lg border border-gray-200 bg-gray-50 p-8 text-center">
+			<div class="rounded border border-gray-200 bg-gray-50 p-8 text-center">
 				<div class="mb-4 flex justify-center">
 					<div class="flex h-16 w-16 items-center justify-center rounded-full bg-blue-100">
 						<svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="text-blue-600">
